@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpercync",
+        "uuid": 2813664,
+        "checksum": "hskwjr"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
